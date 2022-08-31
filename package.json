@@ -29,6 +29,6 @@
     "conventionalCommits": true
   },
   "dependencies": {
-    "@babel/runtime": "^7.1.2"
+    "@babel/runtime": "7.2.0"
   }
 }
